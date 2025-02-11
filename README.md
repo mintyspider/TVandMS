@@ -23,7 +23,7 @@
 
 [Гмурман. Руководство к решению задач по теории вероятностей](https://github.com/mintyspider/TVandMS/blob/main/Books/%5BGmurman_V.E%5D_Rukovodstvo_k_resheniyu_po_teorii_ve(BookSee.org).pdf) - краткая теория + как решать задачи + сами задачи
 
-Здесь будет ссылка на методичку, когда я ее отсканирую и соберу в пдф =) отсюда будут индивидуальные задания.
+[Теория вероятностей. Сборник упражнений для студентов специальности "математика"](https://github.com/mintyspider/TVandMS/blob/main/Books/Petrozavodskii_774_Gosudarstvennyi_774_Universitet.pdf) - отсюда брать индивидуальные задания.
 
 Погнали дальше?
 
